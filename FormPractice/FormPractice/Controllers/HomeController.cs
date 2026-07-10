@@ -13,15 +13,17 @@ namespace FormProcessing.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Login(string Username, string Password)
+        public IActionResult Login(LoginController)
         {
-            if (Username == "tanvir" && Password == "1234")
+            if (ModelState.IsValid)
             {
                 ViewBag.Msg = "Login Success";
             }
             else ViewBag.Msg = "Login Failed";
             return View();
         }
+
+        public IActionResult Register ()
 
         public IActionResult Index()
         {

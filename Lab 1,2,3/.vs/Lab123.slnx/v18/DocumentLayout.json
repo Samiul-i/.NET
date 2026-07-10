@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 1,2,3\\Program.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Program.cs*",
+              "RelativeToolTip": "Lab 1,2,3\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T02:55:20.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 1,2,3\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Lab 1,2,3\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T02:29:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab 1,2,3\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Lab 1,2,3\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T02:29:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Lab 1,2,3\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Lab 1,2,3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T02:20:37.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

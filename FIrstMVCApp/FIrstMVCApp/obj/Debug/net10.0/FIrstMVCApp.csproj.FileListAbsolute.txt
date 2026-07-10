@@ -96,3 +96,4 @@ D:\AIUB\Summer 26\.NET\Code\FIrstMVCApp\FIrstMVCApp\obj\Debug\net10.0\refint\FIr
 D:\AIUB\Summer 26\.NET\Code\FIrstMVCApp\FIrstMVCApp\obj\Debug\net10.0\FIrstMVCApp.pdb
 D:\AIUB\Summer 26\.NET\Code\FIrstMVCApp\FIrstMVCApp\obj\Debug\net10.0\FIrstMVCApp.genruntimeconfig.cache
 D:\AIUB\Summer 26\.NET\Code\FIrstMVCApp\FIrstMVCApp\obj\Debug\net10.0\ref\FIrstMVCApp.dll
+D:\AIUB\Summer 26\.NET\Code\FIrstMVCApp\FIrstMVCApp\obj\Debug\net10.0\FIrstMVCApp.sourcelink.json

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DCFFF3-F3DE-431A-B3C6-FE57408BC15A}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|d:\\aiub\\summer 26\\.net\\code\\firstmvcapp\\firstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B342553-7A97-DB0D-A402-41067A8B3015}|FIrstMVCApp\\FIrstMVCApp.csproj|solutionrelative:firstmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\FIrstMVCApp\\Views\\Student\\Details.cshtml",
               "RelativeDocumentMoniker": "FIrstMVCApp\\Views\\Student\\Details.cshtml",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\FIrstMVCApp\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "FIrstMVCApp\\Views\\Student\\Index.cshtml",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "FIrstMVCApp\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T06:06:34.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T06:06:34.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\FIrstMVCApp\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FIrstMVCApp\\Controllers\\StudentController.cs",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "FIrstMVCApp\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T05:45:57.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T05:45:57.732Z"
             },
             {
               "$type": "Document",
@@ -81,18 +79,17 @@
               "RelativeToolTip": "FIrstMVCApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-11T04:44:17.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T04:44:17.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\FIrstMVCApp\\Program.cs",
               "RelativeDocumentMoniker": "FIrstMVCApp\\Program.cs",
               "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\FIrstMVCApp\\FIrstMVCApp\\Program.cs",
               "RelativeToolTip": "FIrstMVCApp\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T04:38:36.848Z",
               "EditorCaption": ""

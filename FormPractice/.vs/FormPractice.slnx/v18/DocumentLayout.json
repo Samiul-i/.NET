@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\models\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\models\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACC2D4B7-7758-58D5-C131-93A2EBAE9DA6}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC2D4B7-7758-58D5-C131-93A2EBAE9DA6}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\controllers\\studentcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\controllers\\studentcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Models\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormPractice\\Models\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ACC2D4B7-7758-58D5-C131-93A2EBAE9DA6}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC2D4B7-7758-58D5-C131-93A2EBAE9DA6}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|d:\\aiub\\summer 26\\.net\\code\\formpractice\\formpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8562F0-35E2-4745-9835-A1B6E8B7F467}|FormPractice\\FormPractice.csproj|solutionrelative:formpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Controllers\\StudentContoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormPractice\\Controllers\\StudentContoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Models\\LoginController.cs",
               "RelativeDocumentMoniker": "FormPractice\\Models\\LoginController.cs",
-              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Models\\LoginController.cs*",
-              "RelativeToolTip": "FormPractice\\Models\\LoginController.cs*",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Models\\LoginController.cs",
+              "RelativeToolTip": "FormPractice\\Models\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T10:31:19.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-21T10:31:19.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FormPractice\\Controllers\\HomeController.cs",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "FormPractice\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T09:45:48.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-21T09:45:48.957Z"
             },
             {
               "$type": "Document",
@@ -64,21 +62,19 @@
               "RelativeToolTip": "FormPractice\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-21T09:54:05.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-21T09:54:05.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentContoller.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Controllers\\StudentContoller.cs",
               "RelativeDocumentMoniker": "FormPractice\\Controllers\\StudentContoller.cs",
-              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Controllers\\StudentContoller.cs*",
-              "RelativeToolTip": "FormPractice\\Controllers\\StudentContoller.cs*",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\FormPractice\\FormPractice\\Controllers\\StudentContoller.cs",
+              "RelativeToolTip": "FormPractice\\Controllers\\StudentContoller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T09:47:57.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-21T09:47:57.12Z"
             }
           ]
         }

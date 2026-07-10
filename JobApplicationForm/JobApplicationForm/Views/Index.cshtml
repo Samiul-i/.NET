@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Applicant Form";
+
+}
+
+<h2>Applicant Form</h2>
+
+<form action= "" method="post">
+    @Html.ValidationSummary()
+
+    <input type ="text" name="Name" placeholder="Name" />
+    @Html.ValidationMessage("Name")
+
+    <input type="email" name="Email" placeholder="Email" />
+    @Html.ValidationMessage("Email")
+
+    <input type="text" name="Position" placeholder="Position" />
+    @Html.ValidationMessage("Position")
+
+    <input type="number" name="YearOfExpwrience" placeholder="YearOfExperience" />
+    @Html.ValidationMessage("Name")
+
+    <input type="text" name="Name" placeholder="Name" />
+    @Html.ValidationMessage("Name")
+
+
+</form>

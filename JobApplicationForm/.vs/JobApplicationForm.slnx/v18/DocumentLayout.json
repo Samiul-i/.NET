@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|d:\\aiub\\summer 26\\.net\\code\\jobapplicationform\\jobapplicationform\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|solutionrelative:jobapplicationform\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|d:\\aiub\\summer 26\\.net\\code\\jobapplicationform\\jobapplicationform\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|solutionrelative:jobapplicationform\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|d:\\aiub\\summer 26\\.net\\code\\jobapplicationform\\jobapplicationform\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87044124-6DE3-48BE-9998-4824A2FC60C8}|JobApplicationForm\\JobApplicationForm.csproj|solutionrelative:jobapplicationform\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobApplicationForm\\Views\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Views\\Index.cshtml",
+              "RelativeToolTip": "JobApplicationForm\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T05:32:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "JobApplicationForm\\Controllers\\ApplicantController.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "JobApplicationForm\\Controllers\\ApplicantController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T05:26:14.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Models\\Applicant.cs",
+              "RelativeDocumentMoniker": "JobApplicationForm\\Models\\Applicant.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\JobApplicationForm\\JobApplicationForm\\Models\\Applicant.cs",
+              "RelativeToolTip": "JobApplicationForm\\Models\\Applicant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T05:13:35.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

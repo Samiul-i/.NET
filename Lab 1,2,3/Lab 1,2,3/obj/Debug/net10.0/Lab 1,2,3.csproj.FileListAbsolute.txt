@@ -1,0 +1,99 @@
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\appsettings.Development.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\appsettings.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.staticwebassets.runtime.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.staticwebassets.endpoints.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.exe
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.deps.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.runtimeconfig.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.dll
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\bin\Debug\net10.0\Lab 1,2,3.pdb
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.AssemblyInfoInputs.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.AssemblyInfo.cs
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.csproj.CoreCompileInputs.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.MvcApplicationPartsAssemblyInfo.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.RazorAssemblyInfo.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.RazorAssemblyInfo.cs
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.sourcelink.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\scopedcss\bundle\Lab 1,2,3.styles.css
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\scopedcss\projectbundle\Lab 1,2,3.bundle.scp.css
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\gl6j6xj5ql-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\p19nsmjo8u-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\c7pcaf13dg-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\2h6uhf64gh-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\v1udic1pqd-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\jk9crr9pw5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\h1g1xc896u-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\udyc9x6n3f-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\iozdkv4k51-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\xk9vl1tcd5-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\744y36rcof-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\53b69nkhiv-{0}-ub07r2b239-ub07r2b239.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\cw3ofz87jr-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\vmlnttpysx-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\273wu28chj-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\h5mn4lxki1-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\4y4a6u4gxd-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\xisnfv7679-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\09t4skn7hi-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\vzean8yx9g-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\kmf2ailsay-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\7y0pq85iiq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\b3bh62hsy4-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\lhdskavna7-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\83gh90sxl9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\ljbt9nnsi7-{0}-06098lyss8-06098lyss8.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\k21zjkaggv-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\7fhlkhvgc4-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\t4a5bdkjms-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\mixtj8t11g-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\p8gyanibjm-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\9bxx2re2ox-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\6t0yx7j4vh-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\nvah3bd48g-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\izgngr0j34-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\54qykxa0pt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\s0of0no0sr-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\hxcmqxkson-{0}-493y06b0oq-493y06b0oq.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\f4avm331go-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\rfkofhszmr-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\3q9fai32it-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\zmg3hojlc1-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\q7dlbgg1g5-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\5mwshq9qc5-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\0ixl5u22ak-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\o5gd97ps00-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\2hf4rv3r0x-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\akurbp13sx-{0}-47otxtyo56-47otxtyo56.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\h8nd97csz3-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\n8km879l2j-{0}-356vix0kms-356vix0kms.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\o8pziwziv9-{0}-83jwlth58m-83jwlth58m.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\7ofee93kt6-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\vonpnvcb71-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\o2ekfov1gw-{0}-ag7o75518u-ag7o75518u.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\bfpi6bdz4j-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\hhxarpimud-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\p8smu0um2f-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\nipr72b0nm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\r2or3wva8r-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\tket9vaenl-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\xp7phpf4mh-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\6fhx85ot1p-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\rvx97y568u-{0}-hqug7pix5q-hqug7pix5q.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\compressed\hecdviwp1p-{0}-hqug7pix5q-hqug7pix5q.gz
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\staticwebassets.build.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\staticwebassets.development.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\swae.build.ex.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.dll
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\refint\Lab 1,2,3.dll
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.pdb
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\Lab 1,2,3.genruntimeconfig.cache
+D:\AIUB\Summer 26\.NET\Code\Lab 1,2,3\Lab 1,2,3\obj\Debug\net10.0\ref\Lab 1,2,3.dll
