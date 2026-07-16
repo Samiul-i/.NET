@@ -20,7 +20,11 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
-
+app.MapControllerRoute(
+    name: "product",
+    pattern: "products/{category}/{id:int}",
+    defaults: new { controller = "Product" , action="List"})
+    .WithStaticAssets();
 
 app.MapControllerRoute(
     name: "default",

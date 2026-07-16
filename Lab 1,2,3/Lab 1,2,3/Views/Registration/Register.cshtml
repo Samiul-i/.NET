@@ -1,0 +1,53 @@
+﻿@model Lab_1_2_3.Models.Student 
+ 
+@{ 
+    ViewData["Title"] = "Student Registration"; 
+} 
+ 
+<h2>Student Registration</h2> 
+ 
+<form action="" method="post"> 
+ 
+    @Html.ValidationSummary() 
+ 
+    <div> 
+        <label for="StudentId">Student ID</label> 
+        <input type="text" name="StudentId" id="StudentId" /> 
+        @Html.ValidationMessage("StudentId") 
+    </div> 
+ 
+    <div> 
+        <label for="Name">Full Name</label>
+        <input type="text" name="Name" id="Name" />
+        @Html.ValidationMessage("Name")
+    </div>
+
+    <div>
+        <label for="Email">Email Address</label>
+        <input type="email" name="Email" id="Email" />
+        @Html.ValidationMessage("Email")
+    </div>
+
+    <div>
+        <label for="Age">Age</label>
+        <input type="number" name="Age" id="Age" />
+        @Html.ValidationMessage("Age")
+    </div>
+
+    <div>
+        <label for="GPA">GPA</label>
+        <input type="number" name="GPA" id="GPA" step="0.01" />
+        @Html.ValidationMessage("GPA")
+    </div>
+
+    <div>
+        <label for="DateOfBirth">Date of Birth</label>
+        <input type="date" name="DateOfBirth" id="DateOfBirth" />
+        @Html.ValidationMessage("DateOfBirth")
+    </div>
+
+    <div>
+        <button type="submit">Register</button>
+    </div>
+
+</form>

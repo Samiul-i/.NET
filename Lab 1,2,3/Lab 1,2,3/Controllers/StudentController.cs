@@ -7,8 +7,14 @@ namespace Lab_1_2_3.Controllers
         public IActionResult Index()
         {
             ViewBag.Title = "Student List";
-            ViewBag.Message = "Welcome to the student module";
-            return View();
+            ViewData["SubTitle"] = "Enrolled students this semester";
+
+            var students = new List<string>
+            {
+                "Alice Rahman", "Bob Hasan", "Carol Akter", "David Khan"
+            };
+    
+            return View(students);
         }
 
         public IActionResult Details(int id)
