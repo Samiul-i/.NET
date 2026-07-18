@@ -86,8 +86,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Registration\\Success.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T02:28:51.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T02:28:51.603Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Models\\Student.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T02:14:42.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T02:14:42.127Z"
             },
             {
               "$type": "Document",
@@ -110,7 +108,7 @@
               "RelativeDocumentMoniker": "Lab 1,2,3\\Controllers\\RegistrationController.cs",
               "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "Lab 1,2,3\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-11T02:18:51.266Z",
               "EditorCaption": ""
@@ -125,8 +123,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Validations\\MinimumAgeAttribute.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T02:39:49.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T02:39:49.972Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Controllers\\CourseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T01:52:00.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:52:00.491Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T02:20:37.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T02:20:37.891Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Registration\\Register.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T02:21:42.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T02:21:42.674Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T01:48:02.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:48:02.395Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Course\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T01:54:21.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:54:21.313Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-28T02:29:32.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T02:29:32.71Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T02:05:10.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T02:05:10.228Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Course\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T01:55:15.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:55:15.889Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Course\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T01:55:37.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:55:37.213Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Product\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-11T01:50:06.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T01:50:06.208Z"
             },
             {
               "$type": "Document",
@@ -268,8 +255,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T02:55:20.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T02:55:20.782Z"
             },
             {
               "$type": "Document",
@@ -281,8 +267,7 @@
               "RelativeToolTip": "Lab 1,2,3\\Views\\Student\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-28T02:29:46.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T02:29:46.526Z"
             }
           ]
         }

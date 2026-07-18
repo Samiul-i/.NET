@@ -32,3 +32,6 @@ namespace Lab_1_2_3.Models
         public DateTime DateOfBirth { get; set; }
     }
 }
+
+
+

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\views\\registration\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|solutionrelative:lab 1,2,3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE7871E5-EA21-E85D-239D-34B325804A42}|Lab 1,2,3\\Lab123.csproj|d:\\aiub\\summer 26\\.net\\code\\lab 1,2,3\\lab 1,2,3\\validations\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Success.cshtml",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Views\\Registration\\Success.cshtml",
               "RelativeDocumentMoniker": "Lab 1,2,3\\Views\\Registration\\Success.cshtml",
@@ -90,25 +90,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Lab 1,2,3\\Models\\Student.cs",
               "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Models\\Student.cs",
               "RelativeToolTip": "Lab 1,2,3\\Models\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T02:14:42.127Z"
+              "WhenOpened": "2026-07-11T02:14:42.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "Lab 1,2,3\\Controllers\\RegistrationController.cs",
               "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\Lab 1,2,3\\Lab 1,2,3\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "Lab 1,2,3\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-11T02:18:51.266Z",
               "EditorCaption": ""
