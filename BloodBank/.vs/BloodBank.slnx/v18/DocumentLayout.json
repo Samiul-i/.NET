@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\donor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\ef\\tables\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\ef\\tables\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\ef\\tables\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\report\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\report\\filterbybloodgroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\report\\donationcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\report\\donationcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\report\\totalvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\report\\totalvolume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\ef\\bloodbankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\report\\sortedbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\report\\sortedbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\donor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|d:\\aiub\\summer 26\\.net\\code\\bloodbank\\bloodbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED15A36D-8DED-17A7-B0BC-D9CFD85EC3A1}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Create.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Donor\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Create.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Donor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T11:18:29.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\DonorController.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\DonorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T10:53:25.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T12:30:17.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\Tables\\Donation.cs",
+              "RelativeDocumentMoniker": "BloodBank\\EF\\Tables\\Donation.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\Tables\\Donation.cs",
+              "RelativeToolTip": "BloodBank\\EF\\Tables\\Donation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:12:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonationCount.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\DonationCount.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Report\\DonationCount.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\DonationCount.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Report\\DonationCount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T13:05:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterByBloodGroup.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Report\\FilterByBloodGroup.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T13:06:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\Tables\\Donor.cs",
+              "RelativeDocumentMoniker": "BloodBank\\EF\\Tables\\Donor.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\Tables\\Donor.cs",
+              "RelativeToolTip": "BloodBank\\EF\\Tables\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:39:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TotalVolume.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\TotalVolume.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Report\\TotalVolume.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\TotalVolume.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Report\\TotalVolume.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T13:07:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SortedByDate.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\SortedByDate.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Report\\SortedByDate.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Report\\SortedByDate.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Report\\SortedByDate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T13:07:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\List.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Donor\\List.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\List.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Donor\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T12:19:50.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Donor\\Edit.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Edit.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Donor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T11:51:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BloodBankDbContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\BloodBankDbContext.cs",
+              "RelativeDocumentMoniker": "BloodBank\\EF\\BloodBankDbContext.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\EF\\BloodBankDbContext.cs",
+              "RelativeToolTip": "BloodBank\\EF\\BloodBankDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T13:10:29.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Donor\\Delete.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Views\\Donor\\Delete.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Donor\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-24T11:42:56.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Program.cs",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeToolTip": "BloodBank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T10:46:35.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodBank\\appsettings.json",
+              "ToolTip": "D:\\AIUB\\Summer 26\\.NET\\Code\\BloodBank\\BloodBank\\appsettings.json",
+              "RelativeToolTip": "BloodBank\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-24T10:42:35.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
